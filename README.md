@@ -1,4 +1,4 @@
-# 🎶 Spotify Playlist Analysis – Power BI Project
+<img width="1425" height="811" alt="image" src="https://github.com/user-attachments/assets/171c7f97-2204-460d-9fa0-7d69a18aa995" /># 🎶 Spotify Playlist Analysis – Power BI Project
 
 This repository contains a **Power BI Dashboard** built using **Spotify playlist data** to analyze music trends, audio features, and artist/genre insights. The project aims to visually explore how musical characteristics vary across different tracks and playlists.
 
@@ -43,6 +43,10 @@ This Power BI dashboard offers interactive insights into:
 > Optional: Data can be extended using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
 ---
+SceenShots👀💡:
+---->
+
+<img width="1425" height="811" alt="image" src="https://github.com/user-attachments/assets/fb1e77ab-ef65-4277-a274-d9c3d59dd55e" />
 
 ## 📈 Insights You Can Draw
 
